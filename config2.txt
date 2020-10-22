@@ -1,0 +1,12 @@
+# This is what a comment looks like, ignore it
+# All these config lines are valid
+host = test2.com
+server_id=5533100
+server_load_alarm=21.5
+user= user2
+# comment can appear here as well
+verbose =true
+test_mode = On
+debug_mode = OFF
+log_file_path = /tmp/logfile.log
+send_notifications = yeS
